@@ -4,7 +4,8 @@
 First, run the frontend server:
 
 ```bash
-npm i & npm run dev
+npm i 
+npm run dev
 ```
 
 - Open [http://localhost:3000](http://localhost:3000) with your browser to see the frontend page.
